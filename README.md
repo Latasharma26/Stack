@@ -43,4 +43,16 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Latasharma26/Stack/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Latasharma26/Stack/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
