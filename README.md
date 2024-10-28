@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Latasharma26/Stack/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Latasharma26/Stack/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Latasharma26/Stack/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
