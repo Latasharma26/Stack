@@ -48,11 +48,13 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Latasharma26/Stack/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Latasharma26/Stack/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Latasharma26/Stack/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Latasharma26/Stack/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
@@ -66,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Latasharma26/Stack/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Latasharma26/Stack/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Latasharma26/Stack/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Greedy
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Latasharma26/Stack/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
